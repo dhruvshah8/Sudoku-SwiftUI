@@ -71,9 +71,7 @@
 				1E45D7B224D0CD5300A1A7AA /* ContentView.swift */,
 				1E45D7C224D0CE3700A1A7AA /* ContentViewModel.swift */,
 				1E45D7C424D0CE7700A1A7AA /* ViewModel.swift */,
-				1E45D7C624D0CEB000A1A7AA /* Difficulty.swift */,
-				1E45D7C824D0CF6200A1A7AA /* GridFactory.swift */,
-				1E45D7CA24D0CF9100A1A7AA /* CoordinateValue.swift */,
+				1E45D7CC24D0D04800A1A7AA /* Data Models */,
 				1E45D7B424D0CD5500A1A7AA /* Assets.xcassets */,
 				1E45D7B924D0CD5500A1A7AA /* LaunchScreen.storyboard */,
 				1E45D7BC24D0CD5500A1A7AA /* Info.plist */,
@@ -88,6 +86,16 @@
 				1E45D7B724D0CD5500A1A7AA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1E45D7CC24D0D04800A1A7AA /* Data Models */ = {
+			isa = PBXGroup;
+			children = (
+				1E45D7C624D0CEB000A1A7AA /* Difficulty.swift */,
+				1E45D7C824D0CF6200A1A7AA /* GridFactory.swift */,
+				1E45D7CA24D0CF9100A1A7AA /* CoordinateValue.swift */,
+			);
+			path = "Data Models";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
