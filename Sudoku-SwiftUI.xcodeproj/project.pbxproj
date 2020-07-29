@@ -23,6 +23,15 @@
 		1E95644324D20C3400AFEA8E /* SettingsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644224D20C3400AFEA8E /* SettingsPage.swift */; };
 		1E95644524D20C9000AFEA8E /* backgroundColorModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644424D20C9000AFEA8E /* backgroundColorModifier.swift */; };
 		1E95644724D20DD300AFEA8E /* ContentViewButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644624D20DD300AFEA8E /* ContentViewButton.swift */; };
+		1E95645124D20F4F00AFEA8E /* CoordinateEditValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644824D20F4F00AFEA8E /* CoordinateEditValues.swift */; };
+		1E95645224D20F4F00AFEA8E /* EditGridValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644924D20F4F00AFEA8E /* EditGridValues.swift */; };
+		1E95645324D20F4F00AFEA8E /* CoordinateColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644A24D20F4F00AFEA8E /* CoordinateColor.swift */; };
+		1E95645424D20F4F00AFEA8E /* SelectedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644B24D20F4F00AFEA8E /* SelectedCell.swift */; };
+		1E95645524D20F4F00AFEA8E /* AlertItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644C24D20F4F00AFEA8E /* AlertItem.swift */; };
+		1E95645624D20F4F00AFEA8E /* AbsoluteCoordinateValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644D24D20F4F00AFEA8E /* AbsoluteCoordinateValue.swift */; };
+		1E95645724D20F4F00AFEA8E /* EditState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644E24D20F4F00AFEA8E /* EditState.swift */; };
+		1E95645824D20F4F00AFEA8E /* StartingGridValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644F24D20F4F00AFEA8E /* StartingGridValues.swift */; };
+		1E95645924D20F4F00AFEA8E /* UserAction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95645024D20F4F00AFEA8E /* UserAction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +53,15 @@
 		1E95644224D20C3400AFEA8E /* SettingsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsPage.swift; sourceTree = "<group>"; };
 		1E95644424D20C9000AFEA8E /* backgroundColorModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundColorModifier.swift; sourceTree = "<group>"; };
 		1E95644624D20DD300AFEA8E /* ContentViewButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewButton.swift; sourceTree = "<group>"; };
+		1E95644824D20F4F00AFEA8E /* CoordinateEditValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoordinateEditValues.swift; sourceTree = "<group>"; };
+		1E95644924D20F4F00AFEA8E /* EditGridValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditGridValues.swift; sourceTree = "<group>"; };
+		1E95644A24D20F4F00AFEA8E /* CoordinateColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoordinateColor.swift; sourceTree = "<group>"; };
+		1E95644B24D20F4F00AFEA8E /* SelectedCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectedCell.swift; sourceTree = "<group>"; };
+		1E95644C24D20F4F00AFEA8E /* AlertItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlertItem.swift; sourceTree = "<group>"; };
+		1E95644D24D20F4F00AFEA8E /* AbsoluteCoordinateValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AbsoluteCoordinateValue.swift; sourceTree = "<group>"; };
+		1E95644E24D20F4F00AFEA8E /* EditState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditState.swift; sourceTree = "<group>"; };
+		1E95644F24D20F4F00AFEA8E /* StartingGridValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartingGridValues.swift; sourceTree = "<group>"; };
+		1E95645024D20F4F00AFEA8E /* UserAction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserAction.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +123,15 @@
 				1E45D7C624D0CEB000A1A7AA /* Difficulty.swift */,
 				1E45D7C824D0CF6200A1A7AA /* GridFactory.swift */,
 				1E45D7CA24D0CF9100A1A7AA /* CoordinateValue.swift */,
+				1E95644D24D20F4F00AFEA8E /* AbsoluteCoordinateValue.swift */,
+				1E95644C24D20F4F00AFEA8E /* AlertItem.swift */,
+				1E95644A24D20F4F00AFEA8E /* CoordinateColor.swift */,
+				1E95644824D20F4F00AFEA8E /* CoordinateEditValues.swift */,
+				1E95644924D20F4F00AFEA8E /* EditGridValues.swift */,
+				1E95644E24D20F4F00AFEA8E /* EditState.swift */,
+				1E95644B24D20F4F00AFEA8E /* SelectedCell.swift */,
+				1E95644F24D20F4F00AFEA8E /* StartingGridValues.swift */,
+				1E95645024D20F4F00AFEA8E /* UserAction.swift */,
 			);
 			path = "Data Models";
 			sourceTree = "<group>";
@@ -201,15 +228,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E45D7C524D0CE7700A1A7AA /* ViewModel.swift in Sources */,
+				1E95645724D20F4F00AFEA8E /* EditState.swift in Sources */,
+				1E95645624D20F4F00AFEA8E /* AbsoluteCoordinateValue.swift in Sources */,
+				1E95645124D20F4F00AFEA8E /* CoordinateEditValues.swift in Sources */,
 				1E45D7C324D0CE3700A1A7AA /* ContentViewModel.swift in Sources */,
 				1E95644724D20DD300AFEA8E /* ContentViewButton.swift in Sources */,
 				1E95644124D20AA300AFEA8E /* CornerRadius.swift in Sources */,
+				1E95645224D20F4F00AFEA8E /* EditGridValues.swift in Sources */,
+				1E95645424D20F4F00AFEA8E /* SelectedCell.swift in Sources */,
+				1E95645524D20F4F00AFEA8E /* AlertItem.swift in Sources */,
 				1E45D7C924D0CF6200A1A7AA /* GridFactory.swift in Sources */,
+				1E95645824D20F4F00AFEA8E /* StartingGridValues.swift in Sources */,
+				1E95645324D20F4F00AFEA8E /* CoordinateColor.swift in Sources */,
 				1E45D7C724D0CEB000A1A7AA /* Difficulty.swift in Sources */,
 				1E95644324D20C3400AFEA8E /* SettingsPage.swift in Sources */,
 				1E95644524D20C9000AFEA8E /* backgroundColorModifier.swift in Sources */,
 				1E95643E24D20A1400AFEA8E /* ScreenExtension.swift in Sources */,
 				1E45D7AF24D0CD5300A1A7AA /* AppDelegate.swift in Sources */,
+				1E95645924D20F4F00AFEA8E /* UserAction.swift in Sources */,
 				1E45D7CB24D0CF9100A1A7AA /* CoordinateValue.swift in Sources */,
 				1E45D7B124D0CD5300A1A7AA /* SceneDelegate.swift in Sources */,
 				1E45D7B324D0CD5300A1A7AA /* ContentView.swift in Sources */,
