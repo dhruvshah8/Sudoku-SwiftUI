@@ -20,6 +20,8 @@
 		1E45D7CB24D0CF9100A1A7AA /* CoordinateValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45D7CA24D0CF9100A1A7AA /* CoordinateValue.swift */; };
 		1E95643E24D20A1400AFEA8E /* ScreenExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95643D24D20A1400AFEA8E /* ScreenExtension.swift */; };
 		1E95644124D20AA300AFEA8E /* CornerRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644024D20AA300AFEA8E /* CornerRadius.swift */; };
+		1E95644324D20C3400AFEA8E /* SettingsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644224D20C3400AFEA8E /* SettingsPage.swift */; };
+		1E95644524D20C9000AFEA8E /* backgroundColorModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E95644424D20C9000AFEA8E /* backgroundColorModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,8 @@
 		1E45D7CA24D0CF9100A1A7AA /* CoordinateValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinateValue.swift; sourceTree = "<group>"; };
 		1E95643D24D20A1400AFEA8E /* ScreenExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenExtension.swift; sourceTree = "<group>"; };
 		1E95644024D20AA300AFEA8E /* CornerRadius.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CornerRadius.swift; sourceTree = "<group>"; };
+		1E95644224D20C3400AFEA8E /* SettingsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsPage.swift; sourceTree = "<group>"; };
+		1E95644424D20C9000AFEA8E /* backgroundColorModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundColorModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,7 @@
 				1E45D7B924D0CD5500A1A7AA /* LaunchScreen.storyboard */,
 				1E45D7BC24D0CD5500A1A7AA /* Info.plist */,
 				1E45D7B624D0CD5500A1A7AA /* Preview Content */,
+				1E95644224D20C3400AFEA8E /* SettingsPage.swift */,
 			);
 			path = "Sudoku-SwiftUI";
 			sourceTree = "<group>";
@@ -116,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				1E95644024D20AA300AFEA8E /* CornerRadius.swift */,
+				1E95644424D20C9000AFEA8E /* backgroundColorModifier.swift */,
 			);
 			path = "View Modifiers";
 			sourceTree = "<group>";
@@ -196,6 +202,8 @@
 				1E95644124D20AA300AFEA8E /* CornerRadius.swift in Sources */,
 				1E45D7C924D0CF6200A1A7AA /* GridFactory.swift in Sources */,
 				1E45D7C724D0CEB000A1A7AA /* Difficulty.swift in Sources */,
+				1E95644324D20C3400AFEA8E /* SettingsPage.swift in Sources */,
+				1E95644524D20C9000AFEA8E /* backgroundColorModifier.swift in Sources */,
 				1E95643E24D20A1400AFEA8E /* ScreenExtension.swift in Sources */,
 				1E45D7AF24D0CD5300A1A7AA /* AppDelegate.swift in Sources */,
 				1E45D7CB24D0CF9100A1A7AA /* CoordinateValue.swift in Sources */,
