@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E2A3EC524DC8C750088F6BD /* EditButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EB524DC8C750088F6BD /* EditButton.swift */; };
+		1E2A3EC624DC8C750088F6BD /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EB624DC8C750088F6BD /* GameView.swift */; };
+		1E2A3EC724DC8C750088F6BD /* KeysRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EB724DC8C750088F6BD /* KeysRow.swift */; };
+		1E2A3EC824DC8C750088F6BD /* KeysRowButtonText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EB824DC8C750088F6BD /* KeysRowButtonText.swift */; };
+		1E2A3EC924DC8C750088F6BD /* ClearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EB924DC8C750088F6BD /* ClearButton.swift */; };
+		1E2A3ECA24DC8C750088F6BD /* GameViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EBA24DC8C750088F6BD /* GameViewModel.swift */; };
+		1E2A3ECB24DC8C750088F6BD /* NewGameButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EBB24DC8C750088F6BD /* NewGameButton.swift */; };
+		1E2A3ECC24DC8C750088F6BD /* EditCellGridText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EBD24DC8C750088F6BD /* EditCellGridText.swift */; };
+		1E2A3ECD24DC8C750088F6BD /* RowButtonText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EBE24DC8C750088F6BD /* RowButtonText.swift */; };
+		1E2A3ECE24DC8C750088F6BD /* Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EBF24DC8C750088F6BD /* Square.swift */; };
+		1E2A3ECF24DC8C750088F6BD /* EditCellGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EC024DC8C750088F6BD /* EditCellGrid.swift */; };
+		1E2A3ED024DC8C750088F6BD /* RowViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EC124DC8C750088F6BD /* RowViewModel.swift */; };
+		1E2A3ED124DC8C750088F6BD /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EC224DC8C750088F6BD /* Grid.swift */; };
+		1E2A3ED224DC8C750088F6BD /* SquareViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EC324DC8C750088F6BD /* SquareViewModel.swift */; };
+		1E2A3ED324DC8C750088F6BD /* Row.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3EC424DC8C750088F6BD /* Row.swift */; };
+		1E2A3ED524DC8CFC0088F6BD /* GridValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3ED424DC8CFC0088F6BD /* GridValues.swift */; };
+		1E2A3ED724DC8D1C0088F6BD /* SudokuSolver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E2A3ED624DC8D1C0088F6BD /* SudokuSolver.swift */; };
 		1E45D7AF24D0CD5300A1A7AA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45D7AE24D0CD5300A1A7AA /* AppDelegate.swift */; };
 		1E45D7B124D0CD5300A1A7AA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45D7B024D0CD5300A1A7AA /* SceneDelegate.swift */; };
 		1E45D7B324D0CD5300A1A7AA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E45D7B224D0CD5300A1A7AA /* ContentView.swift */; };
@@ -35,6 +52,23 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E2A3EB524DC8C750088F6BD /* EditButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditButton.swift; sourceTree = "<group>"; };
+		1E2A3EB624DC8C750088F6BD /* GameView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		1E2A3EB724DC8C750088F6BD /* KeysRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeysRow.swift; sourceTree = "<group>"; };
+		1E2A3EB824DC8C750088F6BD /* KeysRowButtonText.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeysRowButtonText.swift; sourceTree = "<group>"; };
+		1E2A3EB924DC8C750088F6BD /* ClearButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClearButton.swift; sourceTree = "<group>"; };
+		1E2A3EBA24DC8C750088F6BD /* GameViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewModel.swift; sourceTree = "<group>"; };
+		1E2A3EBB24DC8C750088F6BD /* NewGameButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewGameButton.swift; sourceTree = "<group>"; };
+		1E2A3EBD24DC8C750088F6BD /* EditCellGridText.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditCellGridText.swift; sourceTree = "<group>"; };
+		1E2A3EBE24DC8C750088F6BD /* RowButtonText.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RowButtonText.swift; sourceTree = "<group>"; };
+		1E2A3EBF24DC8C750088F6BD /* Square.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Square.swift; sourceTree = "<group>"; };
+		1E2A3EC024DC8C750088F6BD /* EditCellGrid.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditCellGrid.swift; sourceTree = "<group>"; };
+		1E2A3EC124DC8C750088F6BD /* RowViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RowViewModel.swift; sourceTree = "<group>"; };
+		1E2A3EC224DC8C750088F6BD /* Grid.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
+		1E2A3EC324DC8C750088F6BD /* SquareViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SquareViewModel.swift; sourceTree = "<group>"; };
+		1E2A3EC424DC8C750088F6BD /* Row.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Row.swift; sourceTree = "<group>"; };
+		1E2A3ED424DC8CFC0088F6BD /* GridValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridValues.swift; sourceTree = "<group>"; };
+		1E2A3ED624DC8D1C0088F6BD /* SudokuSolver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SudokuSolver.swift; sourceTree = "<group>"; };
 		1E45D7AB24D0CD5300A1A7AA /* Sudoku-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sudoku-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E45D7AE24D0CD5300A1A7AA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E45D7B024D0CD5300A1A7AA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +109,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1E2A3EB424DC8C750088F6BD /* Game */ = {
+			isa = PBXGroup;
+			children = (
+				1E2A3EB524DC8C750088F6BD /* EditButton.swift */,
+				1E2A3EB624DC8C750088F6BD /* GameView.swift */,
+				1E2A3EB724DC8C750088F6BD /* KeysRow.swift */,
+				1E2A3EB824DC8C750088F6BD /* KeysRowButtonText.swift */,
+				1E2A3EB924DC8C750088F6BD /* ClearButton.swift */,
+				1E2A3EBA24DC8C750088F6BD /* GameViewModel.swift */,
+				1E2A3EBB24DC8C750088F6BD /* NewGameButton.swift */,
+				1E2A3EBC24DC8C750088F6BD /* Grid */,
+			);
+			path = Game;
+			sourceTree = "<group>";
+		};
+		1E2A3EBC24DC8C750088F6BD /* Grid */ = {
+			isa = PBXGroup;
+			children = (
+				1E2A3EBD24DC8C750088F6BD /* EditCellGridText.swift */,
+				1E2A3EBE24DC8C750088F6BD /* RowButtonText.swift */,
+				1E2A3EBF24DC8C750088F6BD /* Square.swift */,
+				1E2A3EC024DC8C750088F6BD /* EditCellGrid.swift */,
+				1E2A3EC124DC8C750088F6BD /* RowViewModel.swift */,
+				1E2A3EC224DC8C750088F6BD /* Grid.swift */,
+				1E2A3EC324DC8C750088F6BD /* SquareViewModel.swift */,
+				1E2A3EC424DC8C750088F6BD /* Row.swift */,
+			);
+			path = Grid;
+			sourceTree = "<group>";
+		};
 		1E45D7A224D0CD5300A1A7AA = {
 			isa = PBXGroup;
 			children = (
@@ -94,10 +158,12 @@
 		1E45D7AD24D0CD5300A1A7AA /* Sudoku-SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				1E2A3EB424DC8C750088F6BD /* Game */,
 				1E45D7AE24D0CD5300A1A7AA /* AppDelegate.swift */,
 				1E45D7B024D0CD5300A1A7AA /* SceneDelegate.swift */,
 				1E45D7B224D0CD5300A1A7AA /* ContentView.swift */,
 				1E45D7C224D0CE3700A1A7AA /* ContentViewModel.swift */,
+				1E2A3ED624DC8D1C0088F6BD /* SudokuSolver.swift */,
 				1E95643C24D2098400AFEA8E /* Shared */,
 				1E45D7CC24D0D04800A1A7AA /* Data Models */,
 				1E45D7B424D0CD5500A1A7AA /* Assets.xcassets */,
@@ -127,6 +193,7 @@
 				1E95644C24D20F4F00AFEA8E /* AlertItem.swift */,
 				1E95644A24D20F4F00AFEA8E /* CoordinateColor.swift */,
 				1E95644824D20F4F00AFEA8E /* CoordinateEditValues.swift */,
+				1E2A3ED424DC8CFC0088F6BD /* GridValues.swift */,
 				1E95644924D20F4F00AFEA8E /* EditGridValues.swift */,
 				1E95644E24D20F4F00AFEA8E /* EditState.swift */,
 				1E95644B24D20F4F00AFEA8E /* SelectedCell.swift */,
@@ -228,26 +295,43 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E45D7C524D0CE7700A1A7AA /* ViewModel.swift in Sources */,
+				1E2A3EC724DC8C750088F6BD /* KeysRow.swift in Sources */,
+				1E2A3ECD24DC8C750088F6BD /* RowButtonText.swift in Sources */,
 				1E95645724D20F4F00AFEA8E /* EditState.swift in Sources */,
+				1E2A3ECF24DC8C750088F6BD /* EditCellGrid.swift in Sources */,
 				1E95645624D20F4F00AFEA8E /* AbsoluteCoordinateValue.swift in Sources */,
+				1E2A3EC524DC8C750088F6BD /* EditButton.swift in Sources */,
 				1E95645124D20F4F00AFEA8E /* CoordinateEditValues.swift in Sources */,
 				1E45D7C324D0CE3700A1A7AA /* ContentViewModel.swift in Sources */,
 				1E95644724D20DD300AFEA8E /* ContentViewButton.swift in Sources */,
 				1E95644124D20AA300AFEA8E /* CornerRadius.swift in Sources */,
+				1E2A3ED024DC8C750088F6BD /* RowViewModel.swift in Sources */,
+				1E2A3ECB24DC8C750088F6BD /* NewGameButton.swift in Sources */,
 				1E95645224D20F4F00AFEA8E /* EditGridValues.swift in Sources */,
+				1E2A3ED724DC8D1C0088F6BD /* SudokuSolver.swift in Sources */,
 				1E95645424D20F4F00AFEA8E /* SelectedCell.swift in Sources */,
 				1E95645524D20F4F00AFEA8E /* AlertItem.swift in Sources */,
 				1E45D7C924D0CF6200A1A7AA /* GridFactory.swift in Sources */,
+				1E2A3EC824DC8C750088F6BD /* KeysRowButtonText.swift in Sources */,
 				1E95645824D20F4F00AFEA8E /* StartingGridValues.swift in Sources */,
+				1E2A3ED324DC8C750088F6BD /* Row.swift in Sources */,
 				1E95645324D20F4F00AFEA8E /* CoordinateColor.swift in Sources */,
+				1E2A3EC924DC8C750088F6BD /* ClearButton.swift in Sources */,
 				1E45D7C724D0CEB000A1A7AA /* Difficulty.swift in Sources */,
 				1E95644324D20C3400AFEA8E /* SettingsPage.swift in Sources */,
 				1E95644524D20C9000AFEA8E /* backgroundColorModifier.swift in Sources */,
+				1E2A3ECA24DC8C750088F6BD /* GameViewModel.swift in Sources */,
 				1E95643E24D20A1400AFEA8E /* ScreenExtension.swift in Sources */,
+				1E2A3ECE24DC8C750088F6BD /* Square.swift in Sources */,
 				1E45D7AF24D0CD5300A1A7AA /* AppDelegate.swift in Sources */,
 				1E95645924D20F4F00AFEA8E /* UserAction.swift in Sources */,
+				1E2A3ED224DC8C750088F6BD /* SquareViewModel.swift in Sources */,
 				1E45D7CB24D0CF9100A1A7AA /* CoordinateValue.swift in Sources */,
 				1E45D7B124D0CD5300A1A7AA /* SceneDelegate.swift in Sources */,
+				1E2A3ED524DC8CFC0088F6BD /* GridValues.swift in Sources */,
+				1E2A3EC624DC8C750088F6BD /* GameView.swift in Sources */,
+				1E2A3ECC24DC8C750088F6BD /* EditCellGridText.swift in Sources */,
+				1E2A3ED124DC8C750088F6BD /* Grid.swift in Sources */,
 				1E45D7B324D0CD5300A1A7AA /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
